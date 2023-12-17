@@ -1,0 +1,14 @@
+C:\Projetos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Projetos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Projetos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Projetos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Projetos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Projetos\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
