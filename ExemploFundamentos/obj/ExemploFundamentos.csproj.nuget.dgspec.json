@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "C:\\Projetos\\trilha-dotnet-aulas-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "C:\\Projetos\\trilha-dotnet-aulas-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "C:\\Projetos\\trilha-dotnet-aulas-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "C:\\Projetos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "C:\\Projetos\\trilha-dotnet-aulas-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\Uliss\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\Projetos\\trilha-dotnet-aulas-fundamentos\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uliss\\AppData\\Roaming\\NuGet\\NuGet.Config"

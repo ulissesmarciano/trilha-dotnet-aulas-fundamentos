@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hEf6dc7TXO9AxMG9k8UlA7tdqIaSujKaZp2OZs68/dsmLOIM8bKH7JeZIdd0WMDV+Qfqe9+VM9+H2lP5EdQhNQ==",
+  "dgSpecHash": "oPEil3YFdjmdokQYE4KmvoCraCIvAbhmKxeG6dPk+oe8XRQHdotIkdf/6tRvGHHkNAhOPlIjUtJjVe4QUxu/Ug==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+  "projectFilePath": "C:\\Projetos\\trilha-dotnet-aulas-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
