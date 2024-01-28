@@ -1,11 +1,94 @@
 ﻿using ExemploFundamentos.Models; //Importando a localização da Classe.
 
+//ORDEM DOS OPERADORES
+
+double a = 4 / 2 + 2; // =4
+double a = 4 / 2 + 2; // =4
+
+//EM UMA OPERAÇÃO PRIMEIRO O PROGRAMA RESOLVE PARENTESES > EXPO0ENTE > MULTIPLICAÇÃO E DIVISÃO > ADIÇÃO E SUBTRAÇÃO
+
+Console.WriteLine(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//CASTING IMPLÍCITO
+//Forma na qual o código é convertido sem usar os argumentos de conversão.
+
+//int a = 5;
+//double b = a; //No caso um inteiro cabe no double.
+
+//Console.WriteLine(b);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//CONVERSÃO PARA STRING
+
+//int inteiro = 5;
+//string a = Convert.ToString(inteiro);//FORMA COMO SE CONVERTE O VALOR INTEIRO EM STRING
+//string a = inteiro.ToString();//FORMA SIMPLIFICADA PARA CONVERTER O VALOR INTEIRO EM STRING
+
+//Console.WriteLine(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //CONVERTENDO TIPOS EM VARIÁVEIS
 //O caso nos chama a fazer um Casting que é converter uma variável em outra.
-//int a = Convert.ToInt32("5"); //Aqui convertemos uma informação que recebe uma string direto nosta variável e a converte para inteiro.
+//int a = Convert.ToInt32("5"); //Aqui convertemos uma informação que recebe uma string direto nosta variável e a converte para inteiro. Esse modo aceita o valor null (0).
 
-//int a = int.Parse("5");//Faz o mesmo processo que acima sem dizer o que quero. Automaticamente converte para Int 32.
+//int a = int.Parse("5");//Faz o mesmo processo que acima sem dizer o que quero. Automaticamente converte para Int 32. Esse modo não aceita o valor null
 
 
 //Poso utilizar o X.toParse onde X é o objeto que quero a conversão.
