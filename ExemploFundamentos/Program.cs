@@ -380,8 +380,41 @@
 
 
 
+// //Operador AND &&
+
+
+// bool possuiPresencaMinima = true;
+// double media = 8;
+
+// if (possuiPresencaMinima && media >= 7) //exemplo do operador
+// {
+//     Console.WriteLine("Aprovado!");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado!");
+// }
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
 
