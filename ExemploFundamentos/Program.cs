@@ -447,8 +447,11 @@
 //No caso criei uma classe calculadora com as funções básicas de aritmética e chamei as funções para resolver o cálculo.
 
 Calculadora calc = new Calculadora();
-calc.Somar(2, 5);
-calc.Subtrair(5, 1);
-calc.Multiplicar(10, 3);
-calc.Dividir(2, 2);
-
+// calc.Somar(2, 5);
+// calc.Subtrair(5, 1);
+// calc.Multiplicar(10, 3);
+// calc.Dividir(2, 2);
+// calc.Potencia(10, 2);
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30);

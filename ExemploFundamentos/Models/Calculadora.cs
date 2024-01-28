@@ -23,6 +23,35 @@ namespace ExemploFundamentos.Models
         {
             Console.WriteLine($"{x} / {y} = {x / y}");
         }
+        public void Potencia(int x, int y)
+        {
+            double pot = Math.Pow(x, y);
+            Console.WriteLine($"{x} elevado a {y} = {pot}");
+        }
+
+        public void Seno(double angulo)
+        {
+            double radiano = angulo * Math.PI / 180;
+            double seno = Math.Sin(radiano);
+
+            Console.WriteLine($"Seno de {angulo}° = {Math.Round(seno, 4)}");//aqui utilizo o Math.Round para mostrar o número de casas que desejo.
+        }
+
+        public void Coseno(double angulo)
+        {
+            double radiano = angulo * Math.PI / 180;
+            double coseno = Math.Cos(radiano);
+
+            Console.WriteLine($"Seno de {angulo}° = {Math.Round(coseno, 4)}");
+        }
+
+        public void Tangente(double angulo)
+        {
+            double radiano = angulo * Math.PI / 180;
+            double tangente = Math.Tan(radiano);
+
+            Console.WriteLine($"Seno de {angulo}° = {Math.Round(tangente, 4)}");
+        }
     
     }
 }
