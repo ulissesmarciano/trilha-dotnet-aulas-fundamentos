@@ -2,14 +2,17 @@
 
 
 
-//OPERADORES DE ATRIBUIÇÃO
+// //OPERADORES DE ATRIBUIÇÃO
+// int a = 10;// O sinal de igual é o operador de atribuição. No caso replicando eu digo que a está recebendo 10.
+// int b = 20;
 
-int a = 10;// O sinal de igual é o operador de atribuição. No caso replicando eu digo que a está recebendo 10.
-int b = 20;
+// int c = a + b;
 
-int c = a + b;
+// //COMBINAÇÃO DE OPERADORES
+// //c = c + 5; //Como eu já declarei c não posso iniciar declarando ele como inteiro pois o mesmo já é. Quando utilizo esta equação eu estou subscrevendo c com outra operação.
+// c += 5; //A forma mais simplificada de declarar o que está na linha de cima. 
 
-Console.WriteLine(c);
+// Console.WriteLine(c);
 
 
 
