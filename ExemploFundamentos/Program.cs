@@ -1,8 +1,33 @@
 ﻿using ExemploFundamentos.Models; //Importando a localização da Classe.
 
 
+//CONVERTENDO TIPOS EM VARIÁVEIS
+//O caso nos chama a fazer um Casting que é converter uma variável em outra.
+//int a = Convert.ToInt32("5"); //Aqui convertemos uma informação que recebe uma string direto nosta variável e a converte para inteiro.
 
-// //OPERADORES DE ATRIBUIÇÃO
+//int a = int.Parse("5");//Faz o mesmo processo que acima sem dizer o que quero. Automaticamente converte para Int 32.
+
+
+//Poso utilizar o X.toParse onde X é o objeto que quero a conversão.
+//Console.WriteLine(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // int a = 10;// O sinal de igual é o operador de atribuição. No caso replicando eu digo que a está recebendo 10.
 // int b = 20;
 
