@@ -309,23 +309,79 @@
 
 
 
-//SWITCH CASE
+// //SWITCH CASE
 
-Console.WriteLine("Digite uma letra");
-string letra = Console.ReadLine();//Este comando permite que o console aguarde uma entrada do usuário para que possa prosseguir
+// Console.WriteLine("Digite uma letra");
+// string letra = Console.ReadLine();//Este comando permite que o console aguarde uma entrada do usuário para que possa prosseguir
 
-switch (letra)
-{
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
+// switch (letra)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//         Console.WriteLine("Vogal");
+//         break;
 
-    default:
-        Console.WriteLine("Não é uma vogal");
-        break;
-}
+//     default:
+//         Console.WriteLine("Não é uma vogal");
+//         break;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //OPERADOR OR ||
+
+// bool ehMaiorDeIdade = true;
+// bool possuiAltorizaçãoDoResponsavel = false;
+
+// if (ehMaiorDeIdade || possuiAltorizaçãoDoResponsavel) //exemplo
+// {
+//     Console.WriteLine("Entrada liberada!");
+// }
+// else
+// {
+//     Console.WriteLine("Entrada não liberada");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
