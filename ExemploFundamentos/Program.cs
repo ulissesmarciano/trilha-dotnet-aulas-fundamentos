@@ -2,12 +2,12 @@
 
 //ORDEM DOS OPERADORES
 
-double a = 4 / 2 + 2; // =4
-double a = 4 / 2 + 2; // =4
+//double a = 4 / 2 + 2; // =4
+//double a = 4 / (2 + 2); // =1
 
 //EM UMA OPERAÇÃO PRIMEIRO O PROGRAMA RESOLVE PARENTESES > EXPO0ENTE > MULTIPLICAÇÃO E DIVISÃO > ADIÇÃO E SUBTRAÇÃO
 
-Console.WriteLine(a);
+//Console.WriteLine(a);
 
 
 
