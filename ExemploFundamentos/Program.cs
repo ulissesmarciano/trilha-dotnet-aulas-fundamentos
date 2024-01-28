@@ -265,3 +265,67 @@
 // {
 //     Console.WriteLine("Não foi possível realizar essa venda.");
 // }
+
+// // IF ANINHADO
+
+// //quando colocamos o 0 na quantidade de compra o valor true é retornado, mas quero tratar esse código e dizer que o valor 0 é inválido, se eu coloco outro if ele retorna inválido mas em seguida diz que é valido, para isso uso o else if que aninha todas as condições em um esquema só.
+// int quantidadeEmEstoque = 10;
+// int quantidadeCompra = 0;
+// bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra; //Neste caso faço um tratamento para a pergunta "É possivel realizar a tranação?"
+
+// Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+// Console.WriteLine($"Quantidade da compra: {quantidadeCompra}");
+// Console.WriteLine($"É possível realizar a transação? {possivelVenda}");
+
+// if (quantidadeCompra == 0){
+//     Console.WriteLine("Venda Inválida!");
+// }
+// else if (possivelVenda)
+// {
+//     Console.WriteLine("Venda Realizada!");
+// }
+// else
+// {
+//     Console.WriteLine("Não foi possível realizar essa venda.");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//SWITCH CASE
+
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();//Este comando permite que o console aguarde uma entrada do usuário para que possa prosseguir
+
+switch (letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+
+    default:
+        Console.WriteLine("Não é uma vogal");
+        break;
+}
+
