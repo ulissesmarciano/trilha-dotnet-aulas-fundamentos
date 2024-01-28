@@ -416,5 +416,39 @@
 
 
 
-//
+// //OPERADOR NOT (!)
+
+
+// bool choveu = true:
+// bool estaTarde = true;
+
+// if (!choveu && !estaTarde)//exemplo
+// {
+//     Console.WriteLine("Vou pedalar");
+// }
+// else
+// {
+//     Console.WriteLine("Vou pedalar outro dia");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+//OPERADORES ARITMETICOS
+//No caso criei uma classe calculadora com as funções básicas de aritmética e chamei as funções para resolver o cálculo.
+
+Calculadora calc = new Calculadora();
+calc.Somar(2, 5);
+calc.Subtrair(5, 1);
+calc.Multiplicar(10, 3);
+calc.Dividir(2, 2);
 
