@@ -1,5 +1,59 @@
 ﻿using ExemploFundamentos.Models; //Importando a localização da Classe.
 
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //CONVERSÃO DE MANEIRA SEGURA
+
+// string a = "15-"; //da forma convencional esse valor atribuido dá erro.
+
+// //int b = Convert.ToInt32(a);//quando há um erro o código para aqui na leitura da variável.
+
+
+// int b = 0;
+// int.TryParse(a, out b); //Neste caso utilizamos o TryParse para que ele tente converter e se não houver a possibilidade de conversão ele retorna o valor de b para que o programa não pare na linha citada acima.
+
+// Console.WriteLine(b);
+// Console.WriteLine("Conversão realizada com sucesso!");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //ORDEM DOS OPERADORES
 
 //double a = 4 / 2 + 2; // =4
