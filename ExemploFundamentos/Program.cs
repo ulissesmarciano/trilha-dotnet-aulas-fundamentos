@@ -461,7 +461,7 @@
 //RAIZ QUADRADA
 //O método foi implementado na classe calculadora
 
-calc.RaizQuadrada(100);
+//calc.RaizQuadrada(100);
 
 
 
@@ -509,6 +509,16 @@ calc.RaizQuadrada(100);
 
 
 
+
+
+//ESTRUTURA DE REPETIÇÃO
+
+//FOR
+
+for (int contador = 0; contador <= 10; contador++) //exemplo de for
+{
+    Console.WriteLine(contador);
+}
 
 
 
