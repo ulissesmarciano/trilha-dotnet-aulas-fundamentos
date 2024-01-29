@@ -458,6 +458,13 @@
 
 
 
+//RAIZ QUADRADA
+//O método foi implementado na classe calculadora
+
+calc.RaizQuadrada(100);
+
+
+
 
 
 
@@ -490,3 +497,25 @@
 // numero = numero -1;//forma de decrementação
 // numero--; //forma simplificada de decrementação
 // Console.WriteLine(numero);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
