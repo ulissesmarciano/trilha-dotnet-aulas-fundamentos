@@ -446,12 +446,47 @@
 //OPERADORES ARITMETICOS
 //No caso criei uma classe calculadora com as funções básicas de aritmética e chamei as funções para resolver o cálculo.
 
-Calculadora calc = new Calculadora();
+//Calculadora calc = new Calculadora();
 // calc.Somar(2, 5);
 // calc.Subtrair(5, 1);
 // calc.Multiplicar(10, 3);
 // calc.Dividir(2, 2);
 // calc.Potencia(10, 2);
-calc.Seno(30);
-calc.Coseno(30);
-calc.Tangente(30);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//INCREMENTO E DECREMENTO
+
+// int numero = 10;
+// Console.WriteLine(numero);
+
+// Console.WriteLine("Decrementando o 10");
+//numero = numero + 1; /forma de incrementação
+//numero++;//forma simplificada de incrementação
+
+// numero = numero -1;//forma de decrementação
+// numero--; //forma simplificada de decrementação
+// Console.WriteLine(numero);
